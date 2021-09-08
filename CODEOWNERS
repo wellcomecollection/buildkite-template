@@ -1,3 +1,8 @@
+# Please enable branch protection rules on this repository that require for the default (main) branch:
+# - Require pull request reviews before merging
+# - Dismiss stale pull request approvals when new commits are pushed
+# - Require review from Code Owners
+
 # To ensure only properly audited changes are run in CI, we require reviews
 # from @wellcomecollection/buildkite-admin when updating pipeline config
 
