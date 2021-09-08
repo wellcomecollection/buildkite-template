@@ -1,6 +1,8 @@
 ## Deploying
 
-We deploy ECS catalogue services using the [weco-deploy](https://github.com/wellcomecollection/weco-deploy) tool.
+How is this service deployed?
+
+e.g. We deploy ECS services using the [weco-deploy](https://github.com/wellcomecollection/weco-deploy) tool.
 
 ### Continuous integration
 
